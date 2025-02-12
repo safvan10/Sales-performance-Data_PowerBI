@@ -11,7 +11,6 @@ This repository contains the source files for a Power BI project that analyzes s
 - [Data Sources](#data-sources)
 - [Reports](#reports)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
